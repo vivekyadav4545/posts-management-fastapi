@@ -10,6 +10,7 @@ A simple REST API built with **FastAPI** that demonstrates CRUD (Create, Read, U
 * Get the latest post
 * Update a post
 * Delete a post
+* Vote and upvote a specific post
 * Automatic request validation using Pydantic
 * Proper HTTP status codes and error handling
 
@@ -19,6 +20,8 @@ A simple REST API built with **FastAPI** that demonstrates CRUD (Create, Read, U
 * FastAPI
 * Pydantic
 * Uvicorn
+* Alembic
+* Sqlalchemy
 
 ## Project Structure
 
