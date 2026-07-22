@@ -37,6 +37,6 @@ def root():
 
 
 
-@app.get("/")
-def root():
-    return {"message":"Hello World!"}
+# @app.get("/")
+# def root():
+#     return {"message":"Hello World!"}
