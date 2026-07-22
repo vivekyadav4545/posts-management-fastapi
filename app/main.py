@@ -9,7 +9,7 @@ from fastapi.responses import RedirectResponse
 
 
 
-# model.Base.metadata.create_all(bind=engine)
+model.Base.metadata.create_all(bind=engine)
 
 app = FastAPI()
 
